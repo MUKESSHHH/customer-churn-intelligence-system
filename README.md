@@ -5,9 +5,13 @@
 This project is an end-to-end Customer Churn Intelligence System that combines:
 
 ● Machine Learning (Random Forest)
+
 ● Custom churn threshold optimization (0.30)
+
 ● Risk segmentation (LOW / MEDIUM / CRITICAL)
+
 ● Revenue at Risk analysis
+
 ● Interactive Power BI dashboard
 
 The goal is not just prediction — but actionable business decision support.
@@ -19,8 +23,11 @@ Customer churn directly reduces recurring revenue.
 Instead of using the default 0.50 probability threshold, this project applies a 0.30 optimized threshold to:
 
 ● Increase churn detection recall
+
 ● Identify high-risk customers earlier
+
 ● Improve retention planning
+
 ● Protect revenue proactively
 
 This shifts the system from a prediction model → to a revenue protection engine.
@@ -28,9 +35,13 @@ This shifts the system from a prediction model → to a revenue protection engin
 🛠 TECH STACK
 -
 ● Python
+
 ● Pandas
+
 ● NumPy
+
 ● Scikit-Learn
+
 ● Power BI
 
 🧠 MACHINE LEARNING PIPELINE
