@@ -50,27 +50,33 @@ This shifts the system from a prediction model → to a revenue protection engin
 -
 
 ● Missing value imputation
+
   • Median (numerical)
   • Mode (categorical)
+  
 ● Label Encoding for categorical variables
 
 2️⃣ TRAIN-TEST SPLIT
 -
 
 ● 25% test data
+
 ● Stratified sampling to preserve churn distribution
 
 3️⃣ MODEL
 -
 
 ● Random Forest Classifier
+
 ● class_weight="balanced" (handles class imbalance)
 
 4️⃣ PROFESSIONAL THRESHOLD OPTIMIZATION
 -
 
 ● Default threshold (0.50) replaced with 0.30
+
 ● Improves recall for churn detection
+
 ● Captures more potential churners early
 
 5️⃣ FEATURE IMPORTANCE
@@ -79,7 +85,9 @@ This shifts the system from a prediction model → to a revenue protection engin
 Top churn drivers identified:
 
  • tenure
+ 
  • monthly charges
+ 
  • contract
 
 RISK SEGMENT LOGIC
@@ -103,7 +111,9 @@ Revenue at Risk is calculated using predicted churn probability.
 The system enables:
 
 ● Action-based segmentation
+
 ● ROI-focused retention planning
+
 ● Strategic resource allocation
 
 📊 DASHBOARD CAPABILITIES
