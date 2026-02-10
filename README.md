@@ -151,10 +151,13 @@ customer-churn-intelligence-system/
 └── README.md
 
 ▶️ How To Run
+
 1️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 2️⃣ Run Model
+
 python src/churn_prediction.py
 
 
