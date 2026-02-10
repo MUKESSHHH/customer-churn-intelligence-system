@@ -127,19 +127,19 @@ The Power BI dashboard includes:
 
 ➠ HIGH RISK CUSTOMERS ANALYSIS
 
-![High Risk Customers](assets/High Risk Customers.png)
+![High Risk Customers](assets/high_Risk_Customers.png)
 
 ➠ CHURN DRIVER AND MODEL EXPLAINABILITY
 
-![Churn Drivers & Model Explainability](assets/Churn Drivers & Model Explainability.png)
+![Churn Drivers & Model Explainability](assets/Churn_Drivers_&_Model_Explainability.png)
 
 ➠ CHURN RISK THRESHOLD & REVENUE SENSITIVITY
 
-![Churn Risk Threshold & Revenue Sensitivity](assets/Churn Risk Threshold & Revenue Sensitivity.png)
+![Churn Risk Threshold & Revenue Sensitivity](assets/Churn_Risk_Threshold_&_Revenue_Sensitivity.png)
 
 ➠ RETENTION IMPACT & ACTION PRIORITIZATION
 
-  ![Retention Impact & Action Prioritization](assets/Retention Impact & Action Prioritization.png)
+  ![Retention Impact & Action Prioritization](assets/retention_impact_&_action_prioritization.png)
   
 📂 PROJECT STRUCTURE
 -
