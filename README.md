@@ -123,7 +123,7 @@ The Power BI dashboard includes:
 
 ➠ EXECUTIVE CHURN OVERVIEW
 
-!(assets/executive_churn_overview.png)
+!([EXECUTIVE CHURN OVERVIEW]assets/executive_churn_overview.png)
 
 ➠ HIGH RISK CUSTOMERS ANALYSIS
 
