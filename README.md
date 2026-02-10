@@ -135,12 +135,19 @@ The Power BI dashboard includes:
 -
 
 customer-churn-intelligence-system/
+
 │
+
 ├── data/          → Raw dataset
+
 ├── src/           → ML pipeline script
+
 ├── dashboard/     → Power BI file
+
 ├── results/       → Model outputs
+
 ├── requirements.txt
+
 └── README.md
 
 ▶️ How To Run
